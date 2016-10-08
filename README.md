@@ -36,7 +36,7 @@
            $ cd build/bin/main
            $ ant -f runexample.xml -Dnumber=1
 
-最后结果           
+最后结果:           
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/3162604-62c6484c40638da7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
